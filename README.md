@@ -46,9 +46,9 @@ Store and print training and validation losses for each epoch to monitor the mod
 
 ## PROGRAM
 
-### Name:
+### Name:FRANKLIN RAJ G
 
-### Register Number:
+### Register Number:212223230058
 
 ```python
 class BiLSTMTagger(nn.Module):
